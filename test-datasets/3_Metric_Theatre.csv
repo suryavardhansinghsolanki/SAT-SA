@@ -1,0 +1,21 @@
+alert_id,entity_id,entity_name,sector,asset_id,timestamp,closed_at,severity,category,source,status,disposition,case_id,escalated,analyst,sla_minutes,notes
+AL-MT-1,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-21,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-2,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-22,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-3,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-23,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-4,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-24,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-5,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-25,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-6,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-26,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-7,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-27,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-8,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-28,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-9,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-29,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-10,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-30,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-11,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-31,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-12,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-32,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-13,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-33,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-14,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-34,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-15,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-35,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-16,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-36,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-17,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-37,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-18,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-38,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-19,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-39,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-20,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-40,true,B. Wayne,180,Investigated and resolved before SLA breach.

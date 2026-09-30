@@ -1,0 +1,11 @@
+alert_id,entity_id,entity_name,sector,asset_id,timestamp,closed_at,severity,category,source,status,disposition,case_id,escalated,analyst,sla_minutes,notes
+AL-EG-1,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-1,false,J. Doe,15,Routine check completed.
+AL-EG-2,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-2,false,J. Doe,15,Routine check completed.
+AL-EG-3,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-3,false,J. Doe,15,Routine check completed.
+AL-EG-4,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-4,false,J. Doe,15,Routine check completed.
+AL-EG-5,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-5,false,J. Doe,15,Routine check completed.
+AL-EG-6,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-6,false,J. Doe,15,Routine check completed.
+AL-EG-7,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-7,false,J. Doe,15,Routine check completed.
+AL-EG-8,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-8,false,J. Doe,15,Routine check completed.
+AL-EG-9,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-9,false,J. Doe,15,Routine check completed.
+AL-EG-10,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-10,false,J. Doe,15,Routine check completed.

@@ -1,0 +1,38 @@
+alert_id,entity_id,entity_name,sector,asset_id,timestamp,closed_at,severity,category,source,status,disposition,case_id,escalated,analyst,sla_minutes,notes
+AL-EG-1,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-1,false,J. Doe,15,Routine check completed.
+AL-EG-2,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-2,false,J. Doe,15,Routine check completed.
+AL-EG-3,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-3,false,J. Doe,15,Routine check completed.
+AL-EG-4,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-4,false,J. Doe,15,Routine check completed.
+AL-EG-5,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-5,false,J. Doe,15,Routine check completed.
+AL-EG-6,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-6,false,J. Doe,15,Routine check completed.
+AL-EG-7,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-7,false,J. Doe,15,Routine check completed.
+AL-EG-8,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-8,false,J. Doe,15,Routine check completed.
+AL-EG-9,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-9,false,J. Doe,15,Routine check completed.
+AL-EG-10,CSE-PWR-001,PowerGrid North,Power,AST-SCADA-01,2026-09-01T10:00:00Z,2026-09-01T10:02:00Z,critical,malware,EDR,closed,false_positive,CS-10,false,J. Doe,15,Routine check completed.
+AL-NS-1,CSE-PWR-001,PowerGrid North,Power,AST-GUEST-WIFI,2026-09-02T10:00:00Z,2026-09-02T14:02:00Z,low,policy-violation,FW,closed,true_positive,CS-11,false,A. Smith,60,Guest wifi blocked.
+AL-NS-2,CSE-PWR-001,PowerGrid North,Power,AST-GUEST-WIFI,2026-09-02T10:00:00Z,2026-09-02T14:02:00Z,low,policy-violation,FW,closed,true_positive,CS-12,false,A. Smith,60,Guest wifi blocked.
+AL-NS-3,CSE-PWR-001,PowerGrid North,Power,AST-GUEST-WIFI,2026-09-02T10:00:00Z,2026-09-02T14:02:00Z,low,policy-violation,FW,closed,true_positive,CS-13,false,A. Smith,60,Guest wifi blocked.
+AL-NS-4,CSE-PWR-001,PowerGrid North,Power,AST-GUEST-WIFI,2026-09-02T10:00:00Z,2026-09-02T14:02:00Z,low,policy-violation,FW,closed,true_positive,CS-14,false,A. Smith,60,Guest wifi blocked.
+AL-NS-5,CSE-PWR-001,PowerGrid North,Power,AST-GUEST-WIFI,2026-09-02T10:00:00Z,2026-09-02T14:02:00Z,low,policy-violation,FW,closed,true_positive,CS-15,false,A. Smith,60,Guest wifi blocked.
+AL-MT-1,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-21,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-2,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-22,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-3,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-23,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-4,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-24,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-5,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-25,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-6,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-26,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-7,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-27,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-8,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-28,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-9,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-29,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-10,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-30,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-11,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-31,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-12,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-32,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-13,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-33,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-14,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-34,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-15,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-35,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-16,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-36,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-17,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-37,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-18,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-38,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-19,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-39,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-MT-20,CSE-FIN-002,National Bank,BFSI,AST-DB-01,2026-09-03T14:00:00Z,2026-09-03T16:59:59Z,high,unauthorized-access,SIEM,closed,incident,CS-40,true,B. Wayne,180,Investigated and resolved before SLA breach.
+AL-HB-1,CSE-HLT-003,City Hospital,Healthcare,AST-EMR-01,2026-09-04T08:00:00Z,2026-09-04T11:45:00Z,critical,ransomware,EDR,closed,incident,CS-50,true,C. Kent,60,Isolated host and contained infection. Root cause: Phishing.
+AL-HB-2,CSE-HLT-003,City Hospital,Healthcare,AST-EMR-01,2026-09-04T09:00:00Z,2026-09-04T09:30:00Z,low,malware,AV,closed,false_positive,CS-51,false,C. Kent,60,Confirmed false positive on custom macro.

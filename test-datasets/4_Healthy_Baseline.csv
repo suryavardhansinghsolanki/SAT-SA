@@ -1,0 +1,3 @@
+alert_id,entity_id,entity_name,sector,asset_id,timestamp,closed_at,severity,category,source,status,disposition,case_id,escalated,analyst,sla_minutes,notes
+AL-HB-1,CSE-HLT-003,City Hospital,Healthcare,AST-EMR-01,2026-09-04T08:00:00Z,2026-09-04T11:45:00Z,critical,ransomware,EDR,closed,incident,CS-50,true,C. Kent,60,Isolated host and contained infection. Root cause: Phishing.
+AL-HB-2,CSE-HLT-003,City Hospital,Healthcare,AST-EMR-01,2026-09-04T09:00:00Z,2026-09-04T09:30:00Z,low,malware,AV,closed,false_positive,CS-51,false,C. Kent,60,Confirmed false positive on custom macro.

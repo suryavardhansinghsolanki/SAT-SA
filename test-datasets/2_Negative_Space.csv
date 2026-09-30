@@ -1,0 +1,6 @@
+alert_id,entity_id,entity_name,sector,asset_id,timestamp,closed_at,severity,category,source,status,disposition,case_id,escalated,analyst,sla_minutes,notes
+AL-NS-1,CSE-PWR-001,PowerGrid North,Power,AST-GUEST-WIFI,2026-09-02T10:00:00Z,2026-09-02T14:02:00Z,low,policy-violation,FW,closed,true_positive,CS-11,false,A. Smith,60,Guest wifi blocked.
+AL-NS-2,CSE-PWR-001,PowerGrid North,Power,AST-GUEST-WIFI,2026-09-02T10:00:00Z,2026-09-02T14:02:00Z,low,policy-violation,FW,closed,true_positive,CS-12,false,A. Smith,60,Guest wifi blocked.
+AL-NS-3,CSE-PWR-001,PowerGrid North,Power,AST-GUEST-WIFI,2026-09-02T10:00:00Z,2026-09-02T14:02:00Z,low,policy-violation,FW,closed,true_positive,CS-13,false,A. Smith,60,Guest wifi blocked.
+AL-NS-4,CSE-PWR-001,PowerGrid North,Power,AST-GUEST-WIFI,2026-09-02T10:00:00Z,2026-09-02T14:02:00Z,low,policy-violation,FW,closed,true_positive,CS-14,false,A. Smith,60,Guest wifi blocked.
+AL-NS-5,CSE-PWR-001,PowerGrid North,Power,AST-GUEST-WIFI,2026-09-02T10:00:00Z,2026-09-02T14:02:00Z,low,policy-violation,FW,closed,true_positive,CS-15,false,A. Smith,60,Guest wifi blocked.

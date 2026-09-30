@@ -1,0 +1,8 @@
+{
+  "name": "sat-sa-offline-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node start.mjs"
+  }
+}
